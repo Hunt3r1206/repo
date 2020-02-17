@@ -5,7 +5,7 @@ Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
 Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/com.nova.originalBlack_1.0.1_iphoneos-arm.deb
-Size: 55.6Mb
+Size: 55600000
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is Nova, a theme based on Lotus Dark. Firmware should be greater than 7.0
 Name: Nova
