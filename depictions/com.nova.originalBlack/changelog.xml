@@ -4,8 +4,12 @@
 		<change>First Release</change>
 		<change>3009 Dark Themed icons</change>
 	</changes>
-<changes>
+	<changes>
 		<version>1.0.1</version>
 		<change>Fixing Naming issues</change>
+	</changes>
+	<changes>
+		<version>1.0.2</version>
+		<change>Edited 260 icons. Adding new ones soon</change>
 	</changes>
 </changelog>
