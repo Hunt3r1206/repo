@@ -1,11 +1,11 @@
 Package: com.supernova.originalBlack
-Version: 1.0.4
+Version: 1.0.5
 Section: Themes
 Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
 Depends:
 Architecture: iphoneos-arm
-Filename: ./debs/com.supernova.originalBlack_1.0.4_iphoneos-arm.deb
-Size: 87975526
+Filename: ./debs/com.supernova.originalBlack_1.0.5_iphoneos-arm.deb
+Size: 111673344
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is SuperNova, a theme based on Lotus Dark. I made this through other themes such as Liaca Dark, Viola Dark, Kecil, and Bohemic NOIR as well as creating my own icons for apps that were not covered between all of those. Mainly just editing the icons to fit in with the Lotus Dark theme or creating new ones. Firmware should be greater than 7.0
 Name: SuperNova
