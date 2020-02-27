@@ -12,4 +12,325 @@ Name: SuperNova
 Author: Hunt3r1206 <thahunter1206@gmail.com>
 Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.supernova.originalBlack
 
+Package: ch.mdaus.sylph
+Version: 1.3-Beta.1
+Section: Tweaks
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/ch.mdaus.sylph_1.3~Beta.1_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Customize the lockscreen now playing view
+Name: Sylph
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=ch.mdaus.sylph
+
+Package: com.bousrih.darkviola
+Version: 1.8
+Section: Themes
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.bousrih.darkviola_1.8_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: 1500+ dark icons
+Name: Dark Viola
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.bousrih.darkviola
+
+Package: com.caestrada.nox
+Version: 3.1
+Section: Themes
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.caestrada.nox_3.1_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Nox is a highly customizable theme aiming to give users greater control over their devices and complement their dark mode setup. Featuring 3 icon modes, 3 notification badges, general purpose icons and lots more, Nox is sure to meet your customization needs
+Name: Nox
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.caestrada.nox
+
+Package: com.cc.haptickeys
+Version: 4.0-3
+Section: Tweaks
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.cc.haptickeys_4.0-3_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Add haptic feedback to keyboard presses on your stock iOS keyboard.
+Name: Haptic Keys
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.cc.haptickeys
+
+Package: com.devy-design.liacadarks
+Version: 1.8
+Section: Themes
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.devy-design.liacadarks_1.8_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Dark Side of Liaca with modern design base on unique color palette perfect for Dark theme & perfect blend for iPhone, iPad, ipod. Crafted with love & people's base of suggestions to make it perfect for every age users & every type users
+Name: Liaca Dark
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.devy-design.liacadarks
+
+Package: com.jailbreak365.safeccmodules
+Version: 1.5-1
+Section: Tweaks
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.jailbreak365.safeccmodules_1.5-1_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: CCModules is a tweak that adds third party app modules and utility modules to the iOS control center.
+Name: CC Modules
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.jailbreak365.safeccmodules
+
+Package: com.juanillo62gm.darkboardxs
+Version: 2.6.1
+Section: Themes
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.juanillo62gm.darkboardxs_2.6.1_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: True Dark theme
+Name: DarkBoardXS
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.juanillo62gm.darkboardxs
+
+Package: com.leftyfl1p.carbridge13
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.leftyfl1p.carbridge13_1.0.2_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Just the Portal is added to carplay for now
+Name: CarBridge13
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.leftyfl1p.carbridge13
+
+Package: com.noisyflake.magmaevo
+Version: 1.1.4
+Section: Tweaks
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.noisyflake.magmaevo_1.1.4_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Customize your control center
+Name: Magma Evo
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.noisyflake.magmaevo
+
+Package: com.opa334.choicy
+Version: 1.1.4
+Section: Tweaks
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.opa334.choicy_1.1.4_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Disable tweak injection on an app by app basis
+Name: Choicy
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.opa334.choicy
+
+Package: com.peterdev.half
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.peterdev.half_1.0.1_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Battery percentage for notched devices
+Name: half
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.peterdev.half
+
+Package: com.spark.autounlockx
+Version: 1.0.12
+Section: Tweaks
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.spark.autounlockx_1.0.12_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Automatically unlock your device if you do not have any notifications
+Name: AutoUnlockX
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.spark.autounlockx
+
+Package: com.thenatis.fayde
+Version: 1.0
+Section: Themes
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.thenatis.fayde_1.0_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Fading iOS theme. Regular, dark and white modes
+Name: Fayde
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.thenatis.fayde
+
+Package: com.thetimeloop.bohemicnoir
+Version: 1.0.3
+Section: Themes
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.thetimeloop.bohemicnoir_1.0.3_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Full dark version of Bohemic
+Name: Bohemic NOIR
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.thetimeloop.bohemicnoir
+
+Package: com.supernova.originalBlack
+Version: 1.0.5
+Section: Themes
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.supernova.originalBlack_1.0.5_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is SuperNova, a theme based on Lotus Dark. I made this through other themes such as Liaca Dark, Viola Dark, Kecil, and Bohemic NOIR as well as creating my own icons for apps that were not covered between all of those. Mainly just editing the icons to fit in with the Lotus Dark theme or creating new ones. Firmware should be greater than 7.0
+Name: SuperNova
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.supernova.originalBlack
+
+Package: com.yourepo.apladdict.hs13
+Version: 1.0.5
+Section: Widgets
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.yourepo.apladdict.hs13_1.6.3_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Weather/Date/Time/Music/Battery/Device info/Countdown Widget for XenHTML
+Name: HS13
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.yourepo.apladdict.hs13
+
+Package: jp.akusio.milkyway2
+Version: 1.0.5
+Section: Tweaks
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/jp.akusio.milkyway2_0.1.1-alpha_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Multitasking Video for iOS 13
+Name: MilkyWay2
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=jp.akusio.milkyway2
+
+Package: me.gmoran.darkerdarkmode
+Version: 0.1-9
+Section: Tweaks
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/me.gmoran.darkerdarkmode_0.1-9_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: OLED Dark Mode is a tweak that unlocks iOS 13's "OLED" Dark Mode capability
+Name: OLED Dark Mode
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=me.gmoran.darkerdarkmode
+
+Package: me.kritanta.homeplus
+Version: 0.4.9-beta
+Section: Tweaks
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/me.kritanta.homeplus_0.4.9-beta_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Layout editor for the homescreen
+Name: Home Plus Beta
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=me.kritanta.homeplus
+
+Package: me.midnightchips.snapback
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/me.midnightchips.snapback_2.0.1_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Jump to different APFS Snapshots
+Name: SnapBack
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=me.midnightchips.snapback
+
+Package: xyz.royalapps.cleanhomescreen
+Version: 1.0.4
+Section: Themes
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/xyz.royalapps.cleanhomescreen_1.0.4_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Remove the clutter from your home and lock screen
+Name: Clean Home Screen
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=xyz.royalapps.cleanhomescreen
+
+Package: xyz.royalapps.jellyfish
+Version: 1.3.3
+Section: Tweaks
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/xyz.royalapps.jellyfish_1.3.3_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Modern looking LockScreen tweak
+Name: JellyFish
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=xyz.royalapps.jellyfish
+
+Package: xyz.xninja.systeminfo
+Version: 2.3.3-2
+Section: Tweaks
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/xyz.xninja.systeminfo_2.3.3-2+debug_iphoneos-arm.deb
+Size: 111673344
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Extra information in settings about your device
+Name: System Info
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=xyz.xninja.systeminfo
 

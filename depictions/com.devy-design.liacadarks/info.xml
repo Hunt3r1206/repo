@@ -1,0 +1,33 @@
+<package>
+	<id>com.devy-design.liacadarks</id>
+	<name>Liaca Dark</name>
+	<version>1.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>Firmware should be greater than 7.0</shortDescription>
+	<descriptionlist>
+		<description>Dark Side of Liaca with modern design base on unique color palette perfect for Dark theme & perfect blend for iPhone, iPad, ipod. Crafted with love & people's base of suggestions to make it perfect for every age users & every type users</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<!-- <description>This is a description for screenshot 1. It's Cydia!</description> -->
+			<!-- <image>cydia.jpg</image> -->
+		</screenshot>		
+		<screenshot>
+			<!-- <description>This is a description for screenshot 2. It's another Cydia!</description> -->
+			<!-- <image>cydia.jpg</image> -->
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
