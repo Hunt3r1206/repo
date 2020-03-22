@@ -313,7 +313,7 @@ Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
 Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/com.hunt3r1206.vantablack_1.0.0_iphoneos-arm.deb
-Size: 2000000
+Size: 2202009
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: Extra Dark Theme
 Name: VantaBlack
