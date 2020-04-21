@@ -12,13 +12,15 @@
 	<shortDescription>Firmware should be greater than 12.0</shortDescription>
 	<descriptionlist>
 		<description>
-		Activate with iThemer or Snowboard.
+		Activate with iThemer or Snowboard(Required).
 		This package requires Prysm and Magma Evo(Coloring of elements) as well as Filza for moving files.
-		1) After installing Prysm StarsCC go to Library/Themes/PrysmStarsCC.theme/bundle in Filza. You will find the "Prysm" folder, copy it. 
+		1) After installing Prysm StarsCC move Prysm StarsCC from / to  Library/Themes in Filza. Then open the folder and open bundles, you will find the "Prysm" folder, copy it. 
 		2) Paste that folder in Library/Application Support after renaming the old "Prysm" folder "Prysm-old"
 		3) Apply Prysm StarsCC using snowboard or ithemer, then respring the device. 
 		4) Adjust the toggles from the control center settings in the Settings app
 		5) Respring again
+
+		If you need any help email me at hunterp1206@protonmail.com
 		</description>
 	</descriptionlist>
 	<screenshots>
