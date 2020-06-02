@@ -333,3 +333,18 @@ Description: Star Wars Prysm Theme
 Name: Prysm StarsCC
 Author: Hunt3r1206 <thahunter1206@gmail.com>
 Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.hunt3r1206.prysmstarscc
+
+Package: com.asterix.swipeselection_1.6.0-no_delete_sound_iphoneos-arm
+Version: 1.6.0
+Section: Tweaks
+Maintainer: Hunt3r1206 <thahunter1206@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.asterix.swipeselection_1.6.0-no_delete_sound_iphoneos-arm.deb
+Size: 
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: SwipeSelection with Fix by Asterix
+Name: SwipeSelection
+Author: Hunt3r1206 <thahunter1206@gmail.com>
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.asterix.swipeselection_1.6.0-no_delete_sound_iphoneos-arm
+
