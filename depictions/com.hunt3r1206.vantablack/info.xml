@@ -1,7 +1,7 @@
 <package>
 	<id>com.hunt3r1206.vantablack</id>
 	<name>VantaBlack</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -26,6 +26,8 @@
 	<changelog>
 		<change>1.0.0</change>
 		<change>Testing</change>
+		<change>1.0.1</change>
+		<change>Remove DS_Store files</change>
 	</changelog>
 	<links>
 		<link>

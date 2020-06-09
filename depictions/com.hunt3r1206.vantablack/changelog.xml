@@ -3,5 +3,7 @@
 		<version>1.0.0</version>
 		<change>First Release</change>
 		<change>Testing</change>
+		<version>1.0.1</version>
+		<change>Remove DS_Store files</change>
 	</changes>
 </changelog>
