@@ -348,3 +348,16 @@ Name: SwipeSelection
 Author: Hunt3r1206 <thahunter1206@gmail.com>
 Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.asterix.swipeselection_1.6.0-no_delete_sound_iphoneos-arm
 
+Package: com.hunt3r1206.movieboxpro
+Version: 7.4
+Section: Entertainment
+Maintainer: Hunt3r1206
+Depends: mobilesubstrate, firmware (>=11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.hunt3r1206.movieboxpro.deb
+Size: 71066476
+MD5sum: af73aa823464d1ec9bdaed0f17a49c69
+Description: Best App to watch Movies and TV shows on your mobile with your Family.
+Name: MovieBoxPro
+Author: Hunt3r1206
+Depiction: https://hunt3r1206.github.io/repo/depictions/?p=com.hunt3r1206.movieboxpro
